@@ -8,6 +8,9 @@ Bundle 'ctags.vim'
 Bundle 'taglist.vim'
 Bundle 'echofunc.vim'
 Bundle 'winmanager'
+Bundle 'tpope/vim-surround'
+Bundle 'jiangmiao/auto-pairs'
+
 set nu
 set nocp
 set ruler
